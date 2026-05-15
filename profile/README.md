@@ -31,4 +31,12 @@ This is a living resource. Currently available in **English**, with **Swahili** 
 We welcome contributions, feedback, and translations—this work belongs to everyone it protects.
 
 ---
-**Official Website:** [hakifedha.org](https://hakifedha.org)
+
+## 📜 License & Attribution
+
+This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+- **Credit:** You must give appropriate credit to **HakiFedha**.
+- **Share-Alike:** If you remix, transform, or build upon this material, you must distribute your contributions under the same license as the original.
+
+View the [Full License Text](LICENSE) for more details.
