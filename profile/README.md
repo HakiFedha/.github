@@ -10,7 +10,7 @@ In Swahili, **Haki** means justice, fairness, and rights—demanded and defended
 ## 🌍 Why This Hub Exists
 Across Africa, the tools of repression are financial as much as physical. When financial systems can be switched off or weaponized, the people who suffer most are those already fighting to be seen.
 
-We provide practical, plain-language guidance on **Bitcoin**, **privacy tools**, and **decentralized technologies** as tools of resistance and resilience.
+We provide practical, plain-language guidance on Bitcoin, privacy tools, and decentralized technologies as tools of resistance and resilience.
 
 ## 🛠 What You’ll Find Here
 * **Practical Guides:** Self-custody for Bitcoin without third-party reliance.
@@ -22,11 +22,11 @@ We provide practical, plain-language guidance on **Bitcoin**, **privacy tools**,
 ## ⚖️ Our Principles
 1. **Financial Autonomy:** Bitcoin changes the equation; money no one can freeze.
 2. **Privacy as a Shield:** Surveillance is a weapon; privacy protects the person holding it.
-3. **Inclusive Design:** Built for low-bandwidth realities, not Silicon Valley assumptions.
+3. **Inclusive Design:** Built for low-bandwidth realities.
 4. **Accessible Education:** If it requires a computer science degree, we’ve failed.
 
 ## 🤝 Contribute or Collaborate
-This is a living resource. Currently available in **English**, with **Swahili** coming next and more African languages to follow. 
+This is a living resource. Currently available in English, with Swahili coming next and more African languages to follow. 
 
 We welcome contributions, feedback, and translations—this work belongs to everyone it protects.
 
