@@ -3,7 +3,7 @@
 ### The Meaning Behind Our Name
 In Swahili, **Haki** means justice, fairness, and rights—demanded and defended. **Fedha** means money or finance—the resource most used to grant freedom and most used to take it away. 
 
-**HakiFedha** is a multilingual knowledge hub built for the people power tries to silence: activists, journalists, human rights defenders, whistleblowers,community leader, researchers, and educators across Africa.
+**HakiFedha** is a multilingual Bitcoin & Privacy knowledge hub built for the people power tries to silence: activists, journalists, human rights defenders, whistleblowers,community leader, researchers, and educators across Africa.
 
 ---
 
